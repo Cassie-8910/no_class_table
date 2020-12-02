@@ -40,7 +40,8 @@ Vue.use(DropDown).use(Menu).use(Icon).use(Modal).use(Button).use(Form).use(Input
 
 // Vue.prototype.baseUrl='http://10.111.144.242:8688';
 // Vue.prototype.baseUrl='http://192.168.0.109:8688'; //2A311
-Vue.prototype.baseUrl='http://47.92.198.164:8688';//服务器
+// Vue.prototype.baseUrl='http://47.92.198.164:8688';//服务器
+Vue.prototype.baseUrl='http://10.111.244.152:8688';//SUST
 
 Vue.config.productionTip = false;
 
